@@ -14,7 +14,7 @@ computer_count = 0
 player_count = 0
 while True:
     game_list = ["Rock","Paper","Scissors"]
-    player_choice = int(input("Chose 1 for Rock, 2 for Paper, and 3 for Scissors press 0 to exit: "))
+    player_choice = int(input("Chose 1 for Rock, 2 for Paper, and 3 for Scissors press 0 to exit, and 4 for results plotting: "))
 
 
     #Computer choice!
